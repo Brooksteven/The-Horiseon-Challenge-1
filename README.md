@@ -8,3 +8,10 @@ By doing this I am creating web accessibility, which delievers a higher rank in 
 
 While carrying out this project I learned why web accessibility is important and how web accessibility creates better business. I also learned how to refractor existing code and how semantic structure can make a project easier to maintain and read.
 
+
+The URL of the GitHub repository:
+https://github.com/Brooksteven/The-Horiseon-Challenge-1
+
+The URL of the deployed application:
+https://brooksteven.github.io/The-Horiseon-Challenge-1/
+
